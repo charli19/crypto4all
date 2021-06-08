@@ -1,0 +1,19 @@
+[
+    {
+        "id": "bitcoin-cash", 
+        "name": "Bitcoin Cash", 
+        "symbol": "BCH", 
+        "rank": "4", 
+        "price_usd": "197.507899256", 
+        "price_btc": "0.0492614", 
+        "24h_volume_usd": "611710578.386", 
+        "market_cap_usd": "3461688855.0", 
+        "available_supply": "17526838.0", 
+        "total_supply": "17526838.0", 
+        "max_supply": "21000000.0", 
+        "percent_change_1h": "0.36", 
+        "percent_change_24h": "4.94", 
+        "percent_change_7d": "140.74", 
+        "last_updated": "1545585012"
+    }
+]
